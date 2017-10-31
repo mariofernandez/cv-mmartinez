@@ -24,6 +24,9 @@ $(function() {
             $("#skill-swift").css("width", "35%"),
             $("#skill-nosql").css("width", "70%"),
             $("#skill-sql").css("width", "85%"),
+            $('#skill-mysql').css("width","85%"),
+            $('#skill-css').css("width","85%"),
+            $("#skill-scorm").css("width", "35%"),
             $("#skill-sysadmin").css("width", "75%"),
             i()
         })
