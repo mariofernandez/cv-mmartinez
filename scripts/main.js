@@ -26,7 +26,7 @@ $(function() {
             $("#skill-sql").css("width", "85%"),
             $('#skill-mysql').css("width","85%"),
             $('#skill-css').css("width","85%"),
-            $("#skill-scorm").css("width", "35%"),
+            $("#skill-scorm").css("width", "60%"),
             $("#skill-sysadmin").css("width", "75%"),
             i()
         })
