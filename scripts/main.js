@@ -23,11 +23,14 @@ $(function() {
             $("#skill-meteor").css("width", "35%"),
             $("#skill-swift").css("width", "35%"),
             $("#skill-nosql").css("width", "70%"),
+            $("#skill-vuejs").css("width", "80%"),
+            $("#skill-firebase").css("width", "80%"),
             $("#skill-sql").css("width", "85%"),
-            $('#skill-mysql').css("width","85%"),
-            $('#skill-css').css("width","85%"),
+            $('#skill-mysql').css("width","90%"),
+            $('#skill-css').css("width","95%"),
             $("#skill-scorm").css("width", "60%"),
             $("#skill-sysadmin").css("width", "75%"),
+            $("#skill-react").css("width", "40%"),
             i()
         })
     }
